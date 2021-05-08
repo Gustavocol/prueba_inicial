@@ -3,4 +3,6 @@ Como vamos.
 
 Aprendiendo Git.
 
-Ahora cabio en la rama tres.
+Ahora cambio en la rama tres.
+
+Ahora cambio en la rama dos.
